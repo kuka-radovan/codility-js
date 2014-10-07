@@ -1,0 +1,19 @@
+{
+	"name": "codility-js",
+	"version": "0.0.1",
+	"author": "Radovan Kuka",
+	"description": "Solutions of Codility training in JavaScript - https://codility.com/train/",
+	"keywords": [
+		"codility",
+		"training"
+	],
+	"repository": "kuka-radovan/codility-js",
+	"private": true,
+	"engines": {
+		"node": ">=0.10.0"
+	},
+	"devDependencies": {
+		"should": "~3.3.1"
+	},
+	"license" : "MIT"
+}
